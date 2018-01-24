@@ -10,3 +10,9 @@
   6. [Crockford on JavaScript - Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA)
   7. [Crockford on JavaScript - Level 7: ECMAScript 5: The New Parts](https://www.youtube.com/watch?v=UTEqr0IlFKY)
   8. [Crockford on JavaScript - Section 8: Programming Style & Your Brain](https://www.youtube.com/watch?v=taaEzHI9xyY)
+
+## Person
+1. [Douglas Crockford](https://www.crockford.com/)
+2. [Brendan Eich](https://brendaneich.com/)
+3. [Addy Osmani](https://addyosmani.com/)
+4. [Axel Rauschmayer](http://dr-axel.de/) - [2ality.com](http://2ality.com/)
